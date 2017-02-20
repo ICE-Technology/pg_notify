@@ -1,0 +1,14 @@
+{
+  "name": "nodeheroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pg_notify_on_heroku_v1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^6.1.2"
+  }
+}
